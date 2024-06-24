@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joe/wgu/devops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/766b00c2d546423485de883ddb4f46c6/artifacts
+end_time: 1719265789801
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 766b00c2d546423485de883ddb4f46c6
+run_name: wise-moose-274
+run_uuid: 766b00c2d546423485de883ddb4f46c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719265770269
+status: 4
+tags: []
+user_id: joe

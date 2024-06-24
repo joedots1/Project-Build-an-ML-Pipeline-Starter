@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joe/wgu/devops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ef2464e4b5cd4b248ab731ca1e01e6f5/artifacts
+end_time: 1719256718539
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef2464e4b5cd4b248ab731ca1e01e6f5
+run_name: aged-mole-610
+run_uuid: ef2464e4b5cd4b248ab731ca1e01e6f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719256708623
+status: 3
+tags: []
+user_id: joe

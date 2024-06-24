@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joe/wgu/devops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/46d28ea05e7f4c7492b203abb620312c/artifacts
+end_time: 1719265921478
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 46d28ea05e7f4c7492b203abb620312c
+run_name: whimsical-worm-726
+run_uuid: 46d28ea05e7f4c7492b203abb620312c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719265907282
+status: 3
+tags: []
+user_id: joe
