@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joe/wgu/devops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/3383da9631c244d89ccf70dbb57f6d2d/artifacts
+end_time: 1719342915201
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3383da9631c244d89ccf70dbb57f6d2d
+run_name: victorious-frog-604
+run_uuid: 3383da9631c244d89ccf70dbb57f6d2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719342882310
+status: 3
+tags: []
+user_id: joe

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joe/wgu/devops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/208e5e3bcba04f31afc3d2271f0a378e/artifacts
+end_time: 1719343043323
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 208e5e3bcba04f31afc3d2271f0a378e
+run_name: luminous-auk-39
+run_uuid: 208e5e3bcba04f31afc3d2271f0a378e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719342993757
+status: 3
+tags: []
+user_id: joe

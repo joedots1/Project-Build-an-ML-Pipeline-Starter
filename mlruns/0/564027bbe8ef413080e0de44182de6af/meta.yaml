@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joe/wgu/devops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/564027bbe8ef413080e0de44182de6af/artifacts
+end_time: 1719340773153
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 564027bbe8ef413080e0de44182de6af
+run_name: invincible-swan-314
+run_uuid: 564027bbe8ef413080e0de44182de6af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719340708181
+status: 4
+tags: []
+user_id: joe

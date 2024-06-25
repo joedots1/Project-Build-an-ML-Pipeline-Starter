@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joe/wgu/devops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/47f994ac2d5c49de94f0b0a997877f84/artifacts
+end_time: 1719341745735
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 47f994ac2d5c49de94f0b0a997877f84
+run_uuid: 47f994ac2d5c49de94f0b0a997877f84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719341585714
+status: 3
+tags: []
+user_id: joe

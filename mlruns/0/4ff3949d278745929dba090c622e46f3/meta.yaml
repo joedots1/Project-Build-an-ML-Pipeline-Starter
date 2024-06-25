@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joe/wgu/devops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4ff3949d278745929dba090c622e46f3/artifacts
+end_time: 1719340814677
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ff3949d278745929dba090c622e46f3
+run_name: melodic-smelt-511
+run_uuid: 4ff3949d278745929dba090c622e46f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719340800527
+status: 4
+tags: []
+user_id: joe

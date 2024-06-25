@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joe/wgu/devops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/80bb522d3d814b389f14d8f41c165a11/artifacts
+end_time: 1719342961164
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 80bb522d3d814b389f14d8f41c165a11
+run_name: stately-penguin-233
+run_uuid: 80bb522d3d814b389f14d8f41c165a11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719342915255
+status: 3
+tags: []
+user_id: joe
