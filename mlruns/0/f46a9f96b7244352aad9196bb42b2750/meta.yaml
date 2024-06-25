@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joe/wgu/devops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f46a9f96b7244352aad9196bb42b2750/artifacts
+end_time: 1719348229262
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f46a9f96b7244352aad9196bb42b2750
+run_name: caring-gnu-882
+run_uuid: f46a9f96b7244352aad9196bb42b2750
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719348006268
+status: 3
+tags: []
+user_id: joe

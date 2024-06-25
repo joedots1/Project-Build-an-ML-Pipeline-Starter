@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joe/wgu/devops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/953940fb9e414d7394e8cd75f441f29f/artifacts
+end_time: 1719347968511
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 953940fb9e414d7394e8cd75f441f29f
+run_name: classy-snake-449
+run_uuid: 953940fb9e414d7394e8cd75f441f29f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719347953358
+status: 3
+tags: []
+user_id: joe

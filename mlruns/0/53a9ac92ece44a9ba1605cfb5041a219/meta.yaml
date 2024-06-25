@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joe/wgu/devops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/53a9ac92ece44a9ba1605cfb5041a219/artifacts
+end_time: 1719347984025
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 53a9ac92ece44a9ba1605cfb5041a219
+run_name: clumsy-panda-450
+run_uuid: 53a9ac92ece44a9ba1605cfb5041a219
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719347968517
+status: 3
+tags: []
+user_id: joe
