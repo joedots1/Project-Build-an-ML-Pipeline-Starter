@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joe/wgu/devops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/bcca6140151c403c99128a37859a649e/artifacts
+end_time: 1719343952319
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bcca6140151c403c99128a37859a649e
+run_name: nebulous-fly-164
+run_uuid: bcca6140151c403c99128a37859a649e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719343889299
+status: 3
+tags: []
+user_id: joe

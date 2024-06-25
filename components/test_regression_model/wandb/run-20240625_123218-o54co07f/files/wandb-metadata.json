@@ -1,0 +1,153 @@
+{
+    "os": "Linux-5.15.153.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.12.4",
+    "heartbeatAt": "2024-06-25T19:32:20.638312",
+    "startedAt": "2024-06-25T19:32:18.656836",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--mlflow_model",
+        "random_forest_export:prod",
+        "--test_dataset",
+        "test_data.csv:latest"
+    ],
+    "state": "running",
+    "program": "/home/joe/wgu/devops/Project-Build-an-ML-Pipeline-Starter/components/test_regression_model/run.py",
+    "codePathLocal": "run.py",
+    "codePath": "components/test_regression_model/run.py",
+    "git": {
+        "remote": "git@github.com-personal:joedots1/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "4d730be0d898f9415bacf1173f07442b86bc6c80"
+    },
+    "email": null,
+    "root": "/home/joe/wgu/devops/Project-Build-an-ML-Pipeline-Starter",
+    "host": "LVLT-03",
+    "username": "joe",
+    "executable": "/home/joe/miniconda3/envs/mlflow-b8aa24ddfa6a7f113bee60d9913f4adff50d02bc/bin/python",
+    "cpu_count": 10,
+    "cpu_count_logical": 20,
+    "cpu_freq": {
+        "current": 2918.400000000001,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2918.4,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.4,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.4,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.4,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.4,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.4,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.4,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.4,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.4,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.4,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.4,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.4,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.4,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.4,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.4,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.4,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.4,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.4,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.4,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2918.4,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1006.853931427002,
+            "used": 42.475502014160156
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 4060 Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 4060 Laptop GPU",
+            "memory_total": 8585740288
+        }
+    ],
+    "memory": {
+        "total": 31.185897827148438
+    }
+}
