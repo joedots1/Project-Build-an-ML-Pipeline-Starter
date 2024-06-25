@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joe/wgu/devops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e75b520449f042c19145bed8155a175a/artifacts
+end_time: 1719347711999
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e75b520449f042c19145bed8155a175a
+run_name: melodic-moth-45
+run_uuid: e75b520449f042c19145bed8155a175a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719347698244
+status: 3
+tags: []
+user_id: joe
