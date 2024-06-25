@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joe/wgu/devops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/fcaca9de588a4ded8ab82c27bab9de13/artifacts
+end_time: 1719338730837
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fcaca9de588a4ded8ab82c27bab9de13
+run_name: selective-newt-497
+run_uuid: fcaca9de588a4ded8ab82c27bab9de13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719338696455
+status: 3
+tags: []
+user_id: joe
